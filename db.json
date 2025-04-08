@@ -1,0 +1,60 @@
+[
+    {
+        "id":"1",
+        "title":"ساعت عقربه ای مردانه",
+        "p":"",
+        "image":[
+            {
+                "img1":"https://dkstatics-public.digikala.com/digikala-products/f712c4c3106e2a03141e350e696b33060185693c_1733641707.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img2":"https://dkstatics-public.digikala.com/digikala-products/2a15aec1ccf5bb9b207a05e998c4d03e1240d093_1702432625.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img3":"https://dkstatics-public.digikala.com/digikala-products/7bc561cdcba3fe941862d435ad1038559490646b_1719672518.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img4":"https://dkstatics-public.digikala.com/digikala-products/ea2aef4ebd27dd8130b4599e2cd4dba174c79061_1738356097.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+            }
+        ],
+        "see":"مشاهده"
+
+    },
+    {
+        "id":"2",
+        "title":"بر اساس سلیقه شما",
+        "p":"اسپیکر (بلندگو)",
+        "image":[
+            {
+                "img1":"https://dkstatics-public.digikala.com/digikala-products/8948c22b78a85ec54c944d842da991804b942927_1632295762.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img2":"https://dkstatics-public.digikala.com/digikala-products/d5ba15cbee687875c67cb2ca80e5d42e99d5023c_1671354277.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img3":"https://dkstatics-public.digikala.com/digikala-products/e99522ff70c9bc85166a4c7ae5c75eb3e9ad7d3b_1721227955.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img4":"https://dkstatics-public.digikala.com/digikala-products/e741e6b33cb3ab4e81b709af8ed0a1d0821ca8dd_1667319300.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+            }
+        ],
+        "see":"مشاهده"
+
+    },
+    {
+        "id":"3",
+        "title":"جوراب مردانه",
+        "p":"بر اساس سلیقه شما",
+        "image":[
+            {
+                "img1":"https://dkstatics-public.digikala.com/digikala-products/96e71732d19996e7f4ba7b84e8ff82ba356b5b04_1740425960.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img2":"https://dkstatics-public.digikala.com/digikala-products/1f3e819be61b797d526a4ab63964bf605f01fa0a_1741108915.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img3":"https://dkstatics-public.digikala.com/digikala-products/dfe4bb8c88120573824f39a1a084648579c4f282_1738087746.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img4":"https://dkstatics-public.digikala.com/digikala-products/5d3fab86f655958cdab0570b5f6beeeaaa354e5f_1739435276.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+            }
+        ],
+        "see":"مشاهده"
+    },
+    {
+        "id":"4",
+        "title":"کرم ضد آفتاب",
+        "p":"بر اساس سلیقه شما",
+        "image":[
+            {
+                "img1":"https://dkstatics-public.digikala.com/digikala-products/f712c4c3106e2a03141e350e696b33060185693c_1733641707.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img2":"https://dkstatics-public.digikala.com/digikala-products/2a15aec1ccf5bb9b207a05e998c4d03e1240d093_1702432625.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img3":"https://dkstatics-public.digikala.com/digikala-products/7bc561cdcba3fe941862d435ad1038559490646b_1719672518.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+                "img4":"https://dkstatics-public.digikala.com/digikala-products/ea2aef4ebd27dd8130b4599e2cd4dba174c79061_1738356097.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+            }
+        ],
+        "see":"مشاهده"
+    }
+]
